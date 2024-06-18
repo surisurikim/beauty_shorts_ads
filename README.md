@@ -1,6 +1,6 @@
 # YouTube 쇼츠 조회수 예측 - '뷰티 광고 콘텐츠'를 중심으로 
 > 한국컴퓨터정보학회 2024 하계 학술대회 발표를 앞두고 있습니다.
-- [학술지] https://shorturl.at/8al6V
+> [학술지] [보러가기 클릭](https://drive.google.com/file/d/1YKFXXMWRwm6hZC0_lfpo7GI6dLaWEKMG/view?usp=drive_link)
 
 본 연구는 **유튜브 쇼츠 뷰티 광고**를 타겟팅하여 조회수를 예측합니다. 
 1. 국내 뷰티 유튜버 192명 직접 선정
